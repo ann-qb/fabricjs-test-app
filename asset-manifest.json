@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fabricjs-test-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fabricjs-test-app/static/js/main.12155305.chunk.js",
+    "main.js.map": "/fabricjs-test-app/static/js/main.12155305.chunk.js.map",
+    "runtime-main.js": "/fabricjs-test-app/static/js/runtime-main.85a35be4.js",
+    "runtime-main.js.map": "/fabricjs-test-app/static/js/runtime-main.85a35be4.js.map",
+    "static/js/2.4dd8800f.chunk.js": "/fabricjs-test-app/static/js/2.4dd8800f.chunk.js",
+    "static/js/2.4dd8800f.chunk.js.map": "/fabricjs-test-app/static/js/2.4dd8800f.chunk.js.map",
+    "static/js/3.2d056667.chunk.js": "/fabricjs-test-app/static/js/3.2d056667.chunk.js",
+    "static/js/3.2d056667.chunk.js.map": "/fabricjs-test-app/static/js/3.2d056667.chunk.js.map",
+    "index.html": "/fabricjs-test-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fabricjs-test-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4dd8800f.chunk.js.LICENSE.txt": "/fabricjs-test-app/static/js/2.4dd8800f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a35be4.js",
+    "static/js/2.4dd8800f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.12155305.chunk.js"
+  ]
+}
